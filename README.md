@@ -41,6 +41,8 @@ cssCopy:root {
   --animation-speed: 2s;
   --scanner-width: 100px;
 }
+
+
 Usage
 htmlCopy<!-- Add to your HTML -->
 <section id="kit">
